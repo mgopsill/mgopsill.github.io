@@ -1,5 +1,5 @@
 body, html
-	font-size: 62.5%
+	font-size: 70%
 
 body
 	font: 16px $fontSans
@@ -13,9 +13,9 @@ h1, h2, h3, h4
 
 h1
 	font-size: 3rem
-	letter-spacing: -1px
 	color: $beta
 	font-weight: 700
+	margin: 2em 0em 0em 0em
 
 h2
 	font-size: 2.2rem
@@ -47,8 +47,7 @@ strong
 ul,
 ol
 	li
-		line-height: 2.4rem
-		font-weight: 300
+		line-height: 1.7
 		color: $alpha
 
 img,
@@ -59,6 +58,9 @@ iframe
 img,
 pre
 	border-radius: 4px
+	margin-left: auto
+	margin-right: auto
+	display: block
 
 figcaption
 	position: relative
@@ -94,9 +96,9 @@ code,
 tt
 	padding: 1px 0
 	font-family: $fontMonospace
-	font-size: 12px
+	font-size: 14px
 	line-height: 20px
-	background: #fff
+	background: #fdf7f7
 	border-radius: 2px
 
 pre
@@ -108,7 +110,7 @@ pre
 	font-size: 1.2rem
 	line-height: 2rem
 	overflow: auto
-	background: #fff
+	background: #fdf7f7
 	border: 1px solid $epsilon
 	border-radius: 2px
 
@@ -125,7 +127,14 @@ pre
 		width: 88%
 
 .wrapper-normal
-	max-width: 560px
+	max-width: 780px
 
 .wrapper-large
 	max-width: 810px
+
+code.language-plaintext.highlighter-rouge
+	border-radius: 2px
+	border: 1px solid #ededed
+	border-radius: 2px
+	padding: 3px
+	font-weight: 600
