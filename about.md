@@ -14,4 +14,4 @@ Currently Senior iOS Engineer at [Ford Mobility](https://www.ford.com/mobility.h
 Also develop the free [P:E Ratio Diet](https://apps.apple.com/us/app/p-e-ratio/id1486639935) app.
 
 ## Contact Me
-You can reach me via email  [m.gopsill@gmail.com](mailto:m.gopsill@gmail.com)
+You can reach me via email  [m.gopsill@gmail.com](mailto:m.gopsill@gmail.com).
